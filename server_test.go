@@ -9,7 +9,7 @@ import (
 	"time"
 
 	log "github.com/fangdingjun/go-log/v5"
-	"github.com/gorilla/websocket"
+	"github.com/ingnelson/websocket"
 	"gopkg.in/yaml.v2"
 )
 
