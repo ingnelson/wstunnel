@@ -6,7 +6,7 @@ import (
 	"net/url"
 
 	log "github.com/fangdingjun/go-log/v5"
-	"github.com/gorilla/websocket"
+	"github.com/ingnelson/websocket"
 )
 
 func forwardWS2WS(conn1, conn2 *websocket.Conn) {
